@@ -1,0 +1,26 @@
+.navbar{ background:#3c6b28;}
+
+.nav-link:hover{ background: #f4f4f4; color: #f97300; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+
+
+.navbar-collapse{
+    justify-content: flex-end;
+   }
+
+.jumbotron{
+  
+    text-transform: capitalize;
+    background-image: url(/Images/ben-pitasky-unsplash.jpg);
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+    
